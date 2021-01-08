@@ -88,7 +88,7 @@ As always thanks to my BFF Google for being there in my hours of need. Also, to 
 ## License
 
 
-Licensed under the [MIT](./license) license.
+Licensed under the [MIT](./LICENSE) license.
 
 
 ---
